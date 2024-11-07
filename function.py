@@ -2,7 +2,7 @@ def greet():
     print("Hello, welcome to Python!")
 greet()  
 
-
+#Example with Return Value:
 def get_default_value():
     return 42
 
